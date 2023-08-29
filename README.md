@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ichisansfw
-- 👀 I’m interested in Game Developing and Web programming
-- 🌱 I’m currently learning Javascript and HTML
+- 👀 I’m interested in Game Developing and Web Developing
+- 🌱 I’m gud in HTML, CSS, and Javascript
 - 📫 How to reach me, you call dm me on instagram @ichisansfw
 
 <!---
