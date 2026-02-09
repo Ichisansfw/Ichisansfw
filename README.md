@@ -1,5 +1,5 @@
 <h2> Hello there! 👋</h2>
-<p> welcome to my github profile. My name is Ichisansfw a.k.a Ichisan, an Indonesian college student who's majoring in Visual Communicaition Design. I'm a beginner web programmer and game developer.</p>
+<p> Welcome to my github profile. My name is Ichisansfw a.k.a Ichisan, an Indonesian college student who's majoring in Visual Communication Design. I'm a beginner web programmer and game developer.</p>
 
 
 <!---
