@@ -1,6 +1,6 @@
-• 🦊︱I’m @Ichisansfw or known as Ichisan! Your local Programmer Arctic Fox.
-• 💻︱I’m interested in Software Engineering
-• ✉️︱How to reach me, you call dm me on instagram @ichisansfw or my Discord NotIchisan
+<h2> Hello there! 👋</h2>
+<p> welcome to my github profile. My name is Ichisansfw a.k.a Ichisan, an Indonesian college student who's majoring in Visual Communicaition Design. I'm a beginner web programmer and game developer.</p>
+
 
 <!---
 Ichisansfw/Ichisansfw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
